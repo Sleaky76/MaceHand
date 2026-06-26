@@ -1,4 +1,4 @@
-name: MaceHands
+name: MaceHand
 version: '1.0.0'
-main: com.sleaky.maceHands.MaceHands
+main: com.sleaky.maceHand.MaceHand
 api-version: '1.21'
