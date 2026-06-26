@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sleaky</groupId>
-    <artifactId>MaceHand</artifactId>
+    <artifactId>MaceHands</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>MaceHand</name>
+    <name>MaceHands</name>
 
     <properties>
         <java.version>21</java.version>
