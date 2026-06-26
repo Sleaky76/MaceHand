@@ -1,0 +1,9 @@
+name: MaceHand
+version: '1.0.0'
+main: com.sleaky.maceHand.MaceHand
+api-version: '1.21'
+commands:
+  macehand:
+    description: "Transforms your main hand into the mace"
+    default: op
+    usage: "Usage: /<command>"
