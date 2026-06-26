@@ -21,7 +21,7 @@ public class Hit implements Listener {
         if (attacker.getVelocity().getY() <= 0 && attacker.getFallDistance() > 2
                 && attacker.getItemInHand().getType() == Material.AIR
                 && MacePlayers.isPlayerActive(attacker)) {
-            e.setDamage((e.getDamage() * (1 + Math.abs(attacker.getVelocity().getY()))) + (attacker.getFallDistance() * 1.5));
+            e.setDamage((e.getDamage() * (1 + Math.abs(attacker.getVelocity().getY()))) + (attacker.getFallDistance() * 2.2));
             FallDamage.cancelFall(attacker);
         }
 
