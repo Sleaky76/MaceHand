@@ -1,4 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63ceef76-70b1-4321-8704-66547a8034b9" name="Changes" comment="Changing list to set in FallDamage.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sleaky/maceHand/MaceHand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sleaky/maceHand/MaceHand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sleaky/maceHand/listeners/FallDamage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sleaky/maceHand/listeners/FallDamage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sleaky/maceHand/listeners/Hit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sleaky/maceHand/listeners/Hit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MaceHand-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/MaceHand-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sleaky/maceHand/MaceHand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sleaky/maceHand/MaceHand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sleaky/maceHand/listeners/Hit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sleaky/maceHand/listeners/Hit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-MaceHand-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-MaceHand-1.0.0.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sleaky76&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sleaky76/MaceHand.git&quot;,
+    &quot;accountId&quot;: &quot;d1564bc8-aab3-4d99-ac8e-9465e2f849b3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3Fga3WgaAaI3f1hKx7LjKUOGlck" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.MaceHand [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="mcdev-temp-root" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="mcdev-temp-root" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63ceef76-70b1-4321-8704-66547a8034b9" name="Changes" comment="" />
+      <created>1782498968092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782498968092</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changing list to set in FallDamage.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing list to set in FallDamage.java" />
+  </component>
 </project>

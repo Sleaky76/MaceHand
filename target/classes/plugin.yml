@@ -4,6 +4,6 @@ main: com.sleaky.maceHand.MaceHand
 api-version: '1.21'
 commands:
   macehand:
-    description: "Transforms your main hand into the mace"
+    description: "Turns your hand into a mace"
     default: op
-    usage: "Usage: /<command>"
+    usage: "Usage: /<command> [player]"

@@ -6,8 +6,8 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageEvent;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashSet;
+import java.util.Set;
 import java.util.UUID;
 
 /**
@@ -15,7 +15,7 @@ import java.util.UUID;
  */
 public class FallDamage implements Listener {
 
-    private static final List<UUID> hits = new ArrayList<>();
+    private static final Set<UUID> hits = new HashSet<>();
 
     public static void cancelFall(Player p) {
         hits.add(p.getUniqueId());
