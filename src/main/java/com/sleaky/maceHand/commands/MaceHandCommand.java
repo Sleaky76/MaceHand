@@ -1,9 +1,6 @@
 package com.sleaky.maceHand.commands;
 
 import com.sleaky.maceHand.staticStorage.MacePlayers;
-import net.kyori.adventure.text.Component;
-import net.kyori.adventure.text.format.TextColor;
-import net.kyori.adventure.util.RGBLike;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
